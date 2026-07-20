@@ -1,0 +1,35 @@
+---
+title: "An Le"
+image: images/my_image.jpg
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thaianle
+    - icon: github
+      text: GitHub
+      href: https://github.com/thaianle
+    - icon: envelope
+      text: Email
+      href: mailto:thaianle1102@gmail.com
+---
+
+:::{#intro-heading}
+Hi, thanks so much for visiting my website!
+
+## Education
+
+**Bates College** | Lewiston, ME | B.A. in Economics and Mathematics | 2024-2028 *(expected)*
+
+## Experience
+
+This summer I am participating in the [Carnegie Mellon Sports Analytics Camp (CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html).
+:::
+
+### About me
+
+This is my about section.
+
+![](images/my_logo.png)

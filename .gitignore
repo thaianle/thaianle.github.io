@@ -1,0 +1,12 @@
+# Default .gitignore for a qmd website
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Remove the site folder and R project file
+/_site/
+*.Rproj
