@@ -1,13 +1,6 @@
 project:
   type: website
 
-# Allow the preview version of the website to update automatically with changes in files
-preview:
-  watch-inputs: true
-  navigate: true
-execute:
-  freeze: false
-
 website:
   title: "An Le"
   favicon: images/my_logo.png
@@ -22,7 +15,7 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, custom.scss]
-      dark: [solar, custom.scss]
+      light: [cosmo, custom.scss, custom_light.scss]
+      dark: [cosmo, custom.scss, custom_dark.scss]
     toc: false
     page-layout: full

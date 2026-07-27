@@ -1,0 +1,11 @@
+---
+title: "Is Fast Fashion’s Prominence Correlated with National Wealth? A Study of Inditex Group's Store Density"
+author: An Le, James Flavell, Kai Huang
+date: "2025-12-05"
+image: ../images/my_logo.png
+format: html
+description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+categories: [Stata, Class Projects]
+---
+
+**Page under construction. Check back later for more updates!**

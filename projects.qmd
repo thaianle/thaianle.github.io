@@ -1,7 +1,30 @@
 ---
 title: "Projects"
 listing:
-  contents: projects
+  - id: research
+    contents: "research/*.qmd"
+    type: default
+    sort: "date desc"
+    categories: true
+    sort-ui: [title, date]
+    filter-ui: [title, date]
+  - id: programming
+    contents: "programming/*.qmd"
+    type: default
+    sort: "date desc"
+    categories: true
+    sort-ui: [title, date]
+    filter-ui: [title, date]
 ---
 
-**Page under construction. Check back later!**
+**Page under construction. Check back later for more updates!**
+
+## Research Projects and Writing Samples
+
+:::{#research}
+:::
+
+## Data Analysis and Programming Projects
+
+:::{#programming}
+:::

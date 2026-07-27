@@ -1,0 +1,12 @@
+---
+title: "How the Sentiment of Strategy Advice Impacts School Choice Truth-Telling in Different
+Information Settings"
+author: An Le
+date: "2026-04-23"
+image: ../images/my_logo.png
+format: html
+description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+categories: [Qualtrics, Class Projects]
+---
+
+**Page under construction. Check back later for more updates!**

@@ -1,10 +1,14 @@
 ---
 title: "The Effects of Transferring on Player Performance: An Analysis on NCAA Division I Men’s Basketball"
+author: An Le, Kendall Lucas
+date: "2026-07-24"
 image: ../images/cmsacamp_capstone_poster.png
 format: html
+description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+categories: [R, CMSACamp]
 ---
 
-**Page under construction. Check back later!**
+**Page under construction. Check back later for more updates!**
 
 Link to project deliverables:
 

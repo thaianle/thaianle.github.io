@@ -1,0 +1,12 @@
+---
+title: "Statistical Replication Project: Gender Differences in Accepting and Receiving Requests
+for Tasks with Low Promotability"
+author: An Le, Augustus Giller, Gray Doyle
+date: "2025-04-20"
+image: ../images/my_logo.png
+format: html
+description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+categories: [Stata, Class Projects]
+---
+
+**Page under construction. Check back later for more updates!**
