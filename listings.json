@@ -2,7 +2,17 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/project1.html"
+      "/research/2026.07.27_NCAA_Transfers.html",
+      "/research/2026.04.23_Exp_Econ_Pre_Analysis.html",
+      "/research/2025.12.05_Econometrics_Final_Project.html",
+      "/research/2025.04.20_Econ_Stats_Replication_Project.html",
+      "/programming/2026.06.16_UFA_Throwing.html",
+      "/programming/2026.05.17_Bates_Hackathon.html",
+      "/programming/2025.08.22_Future_Sales_Prediction.html",
+      "/programming/2025.07.18_NYSED_Report_Card.html",
+      "/programming/2025.07.10_Bank_Marketing.html",
+      "/programming/2025.06.20_International_Database.html",
+      "/programming/2025.04.06_Colby_Hackathon.html"
     ]
   }
 ]

@@ -1,0 +1,11 @@
+---
+title: "Predicting Future Sales from a Kaggle Competition Dataset"
+author: An Le
+date: "2025-08-22"
+image: ../images/my_logo.png
+format: html
+description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+categories: [Python, Independent]
+---
+
+**Page under construction. Check back later for more updates!**

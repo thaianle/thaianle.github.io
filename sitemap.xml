@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thaianle.github.io/research/2026.07.27_NCAA_Transfers.html</loc>
+    <lastmod>2026-07-27T16:06:05.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/research/2025.12.05_Econometrics_Final_Project.html</loc>
+    <lastmod>2026-07-27T16:46:59.937Z</lastmod>
+  </url>
+  <url>
     <loc>https://thaianle.github.io/projects.html</loc>
-    <lastmod>2026-07-27T03:37:57.205Z</lastmod>
+    <lastmod>2026-07-27T16:30:58.525Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2026.05.17_Bates_Hackathon.html</loc>
+    <lastmod>2026-07-27T16:05:31.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2025.07.18_NYSED_Report_Card.html</loc>
+    <lastmod>2026-07-27T16:37:32.669Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2025.06.20_International_Database.html</loc>
+    <lastmod>2026-07-27T16:39:51.547Z</lastmod>
   </url>
   <url>
     <loc>https://thaianle.github.io/index.html</loc>
@@ -10,10 +30,30 @@
   </url>
   <url>
     <loc>https://thaianle.github.io/about.html</loc>
-    <lastmod>2026-07-27T03:38:07.894Z</lastmod>
+    <lastmod>2026-07-27T15:10:30.367Z</lastmod>
   </url>
   <url>
-    <loc>https://thaianle.github.io/projects/project1.html</loc>
-    <lastmod>2026-07-27T03:42:53.398Z</lastmod>
+    <loc>https://thaianle.github.io/programming/2025.04.06_Colby_Hackathon.html</loc>
+    <lastmod>2026-07-27T16:05:39.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2025.07.10_Bank_Marketing.html</loc>
+    <lastmod>2026-07-27T16:39:54.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2025.08.22_Future_Sales_Prediction.html</loc>
+    <lastmod>2026-07-27T16:36:54.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/programming/2026.06.16_UFA_Throwing.html</loc>
+    <lastmod>2026-07-27T16:05:54.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/research/2025.04.20_Econ_Stats_Replication_Project.html</loc>
+    <lastmod>2026-07-27T16:46:43.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thaianle.github.io/research/2026.04.23_Exp_Econ_Pre_Analysis.html</loc>
+    <lastmod>2026-07-27T16:49:09.354Z</lastmod>
   </url>
 </urlset>
