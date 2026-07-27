@@ -1,6 +1,13 @@
 project:
   type: website
 
+# Allow the preview version of the website to update automatically with changes in files
+preview:
+  watch-inputs: true
+  navigate: true
+execute:
+  freeze: false
+
 website:
   title: "An Le"
   favicon: images/my_logo.png
@@ -10,11 +17,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
 
 format:
   html:
     theme:
       light: [cosmo, custom.scss]
-      dark: solar
+      dark: [solar, custom.scss]
     toc: false
     page-layout: full

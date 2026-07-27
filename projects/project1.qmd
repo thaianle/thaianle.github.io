@@ -1,0 +1,11 @@
+---
+title: "The Effects of Transferring on Player Performance: An Analysis on NCAA Division I Men’s Basketball"
+image: ../images/cmsacamp_capstone_poster.png
+format: html
+---
+
+**Page under construction. Check back later!**
+
+Link to project deliverables:
+
+[[Slides](https://docs.google.com/presentation/d/1-NyW1_JmJfNWaunNSzroOKcjS_uUZspAz-Tsr9h29z0/edit?usp=sharing)] [[Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/poster.pdf)] [[Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/report.html)]

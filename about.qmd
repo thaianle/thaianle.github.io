@@ -1,9 +1,181 @@
 ---
-title: "About"
+title: "Expanded Resume"
+title-block-style: none # Remove the title from the page
+format:
+  html:
+    include-in-header:
+      text: |
+        <style>
+        
+        <!-- Remove borders from tables for a resume format -->
+        table {
+          border-collapse: collapse;
+        }
+        table, .table, th, td, tr, th, td {
+          border: none !important;
+          border-top: none !important;
+          border-bottom: none !important;
+        }
+        .table-striped>tbody>tr:nth-of-type(odd)>* {
+          box-shadow: none !important;
+        }
+        
+        </style>
 ---
 
-About this site
+## Education
 
-```{r}
-1 + 1
+```{=html}
+<head>
+
+<!-- Remove borders from table -->
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+  }
+  th, td {
+    border: none;
+  }
+</style>
+
+<!-- 2-column table format for resume -->
+<table style="font-size:15px;">
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Bates College</strong><br><em>Economics and Mathematics Major, Digital and Computational Studies Minor</em></td>
+    <td style="width:30%; text-align:right;"><strong>Lewiston, ME</strong><br><em>Expected Graduation: May 2028</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li><strong>Honors & Awards:</strong> Bates STEM Scholars (a selective cohort of students receiving extra support in exploring STEM careers), Dean’s List for Fall 2024 - Winter 2026</li>
+      <li><strong>Relevant Coursework (as of May 2026):</strong> Experimental Economics, Mathematical Image Processing, Introduction to Abstraction (proof-based mathematics course), Computing for Insight</li>
+    </ul>
+    </td>
+  </tr>
+</table>
+
+</head>
+```
+
+## Experience
+
+```{=html}
+<head>
+
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+  }
+  th, td {
+    border: none;
+  }
+</style>
+
+<table style="font-size:15px;">
+
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Carnegie Mellon Sports Analytics Camp (CMSACamp)</strong><br><em>Undergraduate Research Fellow</em></td>
+    <td style="width:30%; text-align:right;"><strong>Pittsburgh, PA</strong><br><em>Jun 2026 - Jul 2026</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Selected among 16 undergraduate rising juniors and seniors nationwide for a 2-month sports analytics research experience at Carnegie Mellon University.</li>
+      <li>Attend daily lectures on data analysis and statistical learning applied to sports; collaborate with other research fellows and an external industry partner to develop a data analysis and modeling project.</li>
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Goff Lab for Experimental Economics (GLEE) at Bates College</strong><br><em>Economic Research Assistant</em></td>
+    <td style="width:30%; text-align:right;"><strong>Lewiston, ME</strong><br><em>Feb 2026 - Present</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Selected among 16 undergraduate rising juniors and seniors nationwide for a 2-month sports analytics research experience at Carnegie Mellon University.</li>
+      <li>Attend daily lectures on data analysis and statistical learning applied to sports; collaborate with other research fellows and an external industry partner to develop a data analysis and modeling project.</li>
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Bates College Student Writing and Language Center</strong><br><em>Writing Fellow</em></td>
+    <td style="width:30%; text-align:right;"><strong>Lewiston, ME</strong><br><em>Sep 2025 - Present</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Provided personalized feedback and guidance for writing assignments at all stages of the writing process, across multiple genres and disciplines.</li>
+      <li>Developed strategies drawn from specialized writing and pedagogy training to help students enhance their writing skills and navigate the writing curriculum at Bates College.</li>
+    </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Bates College Department of Mathematics</strong><br><em>Mathematics/Digital and Computational Studies Grader</em></td>
+    <td style="width:30%; text-align:right;"><strong>Lewiston, ME</strong><br><em>Jan 2025 - Dec 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Graded and gave detailed feedback on weekly in-class and homework assignments for 3 class sections with ~80 students in total.</li>
+      <li>Gained hands-on experience in cleaning and visualizing data with R, reporting analysis results with R Markdown, and managing projects with GitHub.</li>
+    </ul>
+    </td>
+  </tr>
+
+</table>
+
+</head>
+```
+
+## Leadership & Extracurricular Activities
+
+```{=html}
+<head>
+
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+  }
+  th, td {
+    border: none;
+  }
+</style>
+
+<table style="font-size:15px;">
+
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Bates College Department of Education</strong><br><em>Fieldwork Participant</em></td>
+    <td style="width:30%; text-align:right;"><strong>Auburn, ME</strong><br><em>Sep 2025 - Dec 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Observed and assisted a teacher in algebra and pre-calculus classes at Edward Little High School for 3.5 hours per week as part of an Education course at Bates College.</li>
+      <li>Collaborated with the host teacher to provide targeted support to students in small-group settings and prepare the necessary instructional materials.</li>
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:70%; text-align:left;"><strong>Bates College Harward Center for Community Partnerships</strong><br><em>Community-Engaged Learning Participant</em></td>
+    <td style="width:30%; text-align:right;"><strong>Lewiston, ME</strong><br><em>Apr 2025 - May 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <ul>
+      <li>Designed and conducted two 30-minute creative writing workshops for 30 students at Geiger Elementary School as part of a Short Term course at Bates College.</li>
+      <li>Applied understanding of the relationship between language and experience in developing lesson plans.</li>
+    </ul>
+    </td>
+  </tr>
+
+</table>
+
+</head>
 ```

@@ -12,24 +12,13 @@ about:
       text: GitHub
       href: https://github.com/thaianle
     - icon: envelope
-      text: Email
+      text: Email (personal)
       href: mailto:thaianle1102@gmail.com
+    - icon: envelope
+      text: Email (institutional)
+      href: mailto:ale2@bates.edu
 ---
 
-:::{#intro-heading}
-Hi, thanks so much for visiting my website!
+I'm a Mathematics & Economics double major and Digital and Computational Studies minor at Bates College. My current career interests are in research and data analytics/data science, particularly in socio-economic and financial contexts. I am always excited to uncover patterns in the data and contribute my insights to informed decisions.
 
-## Education
-
-**Bates College** | Lewiston, ME | B.A. in Economics and Mathematics | 2024-2028 *(expected)*
-
-## Experience
-
-This summer I am participating in the [Carnegie Mellon Sports Analytics Camp (CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html).
-:::
-
-### About me
-
-This is my about section.
-
-![](images/my_logo.png)
+In addition, I also have extensive experience in writing and language tutoring, helping my fellow students with their classwork while cultivating meaningful relationships. In my free time, I enjoy watching televised quiz shows and sharing the fun facts that I have learned.
