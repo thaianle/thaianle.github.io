@@ -2,7 +2,7 @@
 title: "Ultimate Frisbee Association Throwing: An Exploratory Data Analysis"
 author: Julia Biesiada, An Le, Vivian Du
 date: "2026-06-16"
-image: ../images/my_logo.png
+image: ../images/2026.06.16_UFA_Throwing.jpg
 format: html
 description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
 categories: [R, CMSACamp]

@@ -9,3 +9,5 @@ categories: [Stata, Class Projects]
 ---
 
 **Page under construction. Check back later for more updates!**
+
+Full project and code is available upon request.

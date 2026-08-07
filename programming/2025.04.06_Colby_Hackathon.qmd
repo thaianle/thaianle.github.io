@@ -2,7 +2,7 @@
 title: "An Analysis of the Commercial Real Estate Market with Savills Data"
 author: Jondall Norris, Madina Sotvoldieva, An Le
 date: "2025-04-06"
-image: ../images/my_logo.png
+image: ../images/2025.04.06_Colby_Hackathon.jpg
 format: html
 description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
 categories: [Python, Hackathon]

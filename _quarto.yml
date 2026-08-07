@@ -3,13 +3,14 @@ project:
 
 website:
   title: "An Le"
-  favicon: images/my_logo.png
+  favicon: images/my_logo.jpg
   navbar:
-    logo: images/my_logo.png
+    logo: images/my_logo.jpg
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Profile
       - projects.qmd
 
 format:

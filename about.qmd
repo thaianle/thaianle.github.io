@@ -99,7 +99,7 @@ format:
   </tr>
   <tr>
     <td colspan="2">
-    <strong>PI: Sandra Goff (Bates College)</strong><br><ul>
+    <strong>Co-PI: Sandra Goff (Bates College), John Ifcher (Santa Clara University)</strong><br><ul>
       <li>Implemented economic experiments to assess how the framing of negative externalities associated with a transaction influences market participants' attitudes and decision-making.</li>
       <li>Collaborated with professors Sandra Goff (Bates College) and John Ifcher (Santa Clara University) to adapt related in-person experiments into a one-shot survey on Qualtrics and an interactive simulation on oTree.</li>
     </ul>

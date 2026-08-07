@@ -1,15 +1,42 @@
 ---
 title: "The Effects of Transferring on Player Performance: An Analysis on NCAA Division I Men’s Basketball"
-author: An Le, Kendall Lucas
+author: An Le, Kendall Lucas, Katerina Wu
 date: "2026-07-24"
-image: ../images/cmsacamp_capstone_poster.png
+image: ../images/2026.07.27_NCAA_Transfers.png
 format: html
-description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+description: "<em>Capstone project for Carnegie Mellon Sports Analytics Camp (CMSACamp) 2026, done in collaboration with Kendall Lucas (Duquesne University) and Katerina Wu (University of Pittsburgh Athletics).</em>"
 categories: [R, CMSACamp]
+
+# Embed a PDF file using the embedpdf extension (compatible even for mobile devices)
+embedpdf:
+  renderer: pdfjs
+  height: 1000
+  width: 800
+  toolbar: true
 ---
 
-**Page under construction. Check back later for more updates!**
+This project, which explored the effects of transferring on athletic performance in NCAA Division I men's basketball tournaments, serves as the capstone project for the [Carnegie Mellon Sports Analytics Camp (CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html) research program. The project was developed in collaboration with my partner, Kendall Lucas from Duquesne University, with the assistance of Katerina Wu, an external advisor from the University of Pittsburgh Athletics. In the group, I served as the main person responsible for the project's statistical methodology, including conceptualization and implementation via R programming using libraries such as `MatchIt` and `lme4`.
 
-Link to project deliverables:
+We were very grateful for the people in [Carnegie Mellon University Statistics and Data Science](https://www.cmu.edu/dietrich/statistics-datascience/) and [University of Pittsburgh Athletics](https://pittsburghpanthers.com/) who made this eventful meaningful research opportunity at CMSACamp possible. Specifically, we would like to give special thanks to Katerina Wu, Sara Colando, Erin Franke, Princess Allotey, Ron Yurko, other CMSACamp TAs and guest speakers who provided guidance and support throughout the research process.
 
-[[Slides](https://docs.google.com/presentation/d/1-NyW1_JmJfNWaunNSzroOKcjS_uUZspAz-Tsr9h29z0/edit?usp=sharing)] [[Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/poster.pdf)] [[Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/report.html)]
+If time permits, I might also share a beginner-friendly rundown of the project, as well as my personal experiences applying to and working at CMSACamp in this blog post.
+
+### Project Deliverables
+
+In our time at CMSACamp, we were tasked with delivering the same capstone project findings in multiple ways: an academic poster, a 10-minute slide presentation, and a comprehensive written report. Personally, I believed that the program is helping students to present their projects to a diverse range of audiences.
+
+Our poster gives a concise overview of the project, including our motivations, statistical approach, and findings:
+
+{{< pdf pdf_docs/2026.07.27_poster_NCAA_Transfers.pdf height=600 button="Download Poster" >}}
+
+Next, we have the slides used for presentation in the final day of our research program, to an audience mostly coming from CMU Statistics and external project advisors that worked specifically with CMSACamp:
+
+{{< pdf pdf_docs/2026.07.27_slides_NCAA_Transfers.pdf height=800 button="Download Slides" >}}
+
+Note that when I was designing the slides and posters, I mimicked the University of Pittsburgh branding as closely as possible, like in a company where we were presenting to Pitt stakeholders. This involved using Pitt's [Royal Blue and Gold](https://www.brand.pitt.edu/brand-elements/color-palettes) as the main color palette, and using available Google Fonts that are similar in appearance to [Pitt-specific fonts](https://www.brand.pitt.edu/brand-elements/typography). This also partly explained why some of our fonts were messed up when I tried to export our Google Slides design into PDF format.
+
+Finally, our full-length detailed report that showed our thinking throughout the research process, from exploratory data analysis to justifications for model choice, is accessible via [this link](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/report.html).
+
+If you want to see awesome research projects in statistics and data science that our cohort made during CMSACamp 2026 (including us!), they are also publicly available [here](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/).
+
+_In designing this page, I used the `embedpdf` extension in Quarto, created by Jeffrey Girard._

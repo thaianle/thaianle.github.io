@@ -2,7 +2,7 @@
 title: "Mapping Volunteer-Based Flooding Event Reports to Actual Meteorological Data"
 author: An Le, Lucas Budiansky
 date: "2026-05-17"
-image: ../images/my_logo.png
+image: ../images/2026.05.17_Bates_Hackathon.png
 format: html
 description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
 categories: [Python, Hackathon]
