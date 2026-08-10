@@ -3,19 +3,24 @@ title: "Projects"
 listing:
   - id: research
     contents: "research/*.qmd"
-    type: default
+    type: grid
     sort: "date desc"
     categories: true
     sort-ui: [title, date]
     filter-ui: [title, date]
   - id: programming
     contents: "programming/*.qmd"
-    type: default
+    type: grid
     sort: "date desc"
     categories: true
     sort-ui: [title, date]
     filter-ui: [title, date]
+format:
+  html:
+    toc: true
 ---
+
+_In designing this page, I used the `embedpdf` extension in Quarto, created by Jeffrey Girard._
 
 **Page under construction. Check back later for more updates!**
 

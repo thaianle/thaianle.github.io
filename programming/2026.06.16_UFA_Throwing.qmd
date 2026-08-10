@@ -1,11 +1,30 @@
 ---
 title: "Ultimate Frisbee Association Throwing: An Exploratory Data Analysis"
-author: Julia Biesiada, An Le, Vivian Du
+author: Julia Biesiada, Vivian Du, An Le
 date: "2026-06-16"
 image: ../images/2026.06.16_UFA_Throwing.jpg
 format: html
-description: "<br><strong>Page under construction. Check back later for more updates!</strong>"
+description: "Mini-project for CMSACamp 2026 to practice programming, collaboration, and presentation, preparing students for the capstone project later in the program."
 categories: [R, CMSACamp]
+
+# Embed a PDF file using the embedpdf extension (compatible even for mobile devices)
+embedpdf:
+  renderer: pdfjs
+  height: 1000
+  width: 800
+  toolbar: true
 ---
 
-**Page under construction. Check back later for more updates!**
+This is a mini Exploratory Data Analysis (EDA) project that is part of the [Carnegie Mellon Sports Analytics Camp (CMSACamp) 2026](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html) research program.
+
+For this project, my team was assigned a dataset of throw-level data in 4 seasons of the [Ultimate Frisbee Association (UFA)](https://watchufa.com/), formerly known as the American Ultimate Disc League (AUDL), a professional ultimate frisbee tournament. For about 2 weeks, we were tasked with exploring the dataset using programming and statistical techniques, such as data cleaning, data visualization, and clustering analysis.
+
+In the group, I visualized the location of goals scored and turnovers made by the New York Empire, an "elite" team and the Tampa Bay Cannons, a "struggling" team, using heat maps. Both the Empire and the Cannons have approximately similar scoring patterns, but the Cannons' turnover locations are more concentrated than the Empire. This case study gives a potential reason why in ultimate frisbee, similar strategies may lead to very different outcomes depending on the team.
+
+Throughout the project, we have learned to navigate data from a niche sport like ultimate frisbee without prior domain knowledge, familiarize ourselves with R programming and collaboration via GitHub, as well as practicing our presentation to prepare for the capstone project in CMSACamp.
+
+Our presentation slides for this project are attached below:
+
+{{< pdf pdf_docs/2026.06.16_slides_UFA_Throwing.pdf height=800 button="Download Slides" >}}
+
+The code to reproduce our visualizations and findings is also publicly available as a GitHub repository [here](https://github.com/thaianle/ufa-throwing-cmsacamp-2026).

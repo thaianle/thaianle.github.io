@@ -4,7 +4,7 @@ author: An Le, Kendall Lucas, Katerina Wu
 date: "2026-07-24"
 image: ../images/2026.07.27_NCAA_Transfers.png
 format: html
-description: "<em>Capstone project for Carnegie Mellon Sports Analytics Camp (CMSACamp) 2026, done in collaboration with Kendall Lucas (Duquesne University) and Katerina Wu (University of Pittsburgh Athletics).</em>"
+description: "Capstone project for CMSACamp 2026, done in collaboration with Kendall Lucas (Duquesne University) and Katerina Wu (University of Pittsburgh)."
 categories: [R, CMSACamp]
 
 # Embed a PDF file using the embedpdf extension (compatible even for mobile devices)
@@ -35,8 +35,6 @@ Next, we have the slides used for presentation in the final day of our research 
 
 Note that when I was designing the slides and posters, I mimicked the University of Pittsburgh branding as closely as possible, like in a company where we were presenting to Pitt stakeholders. This involved using Pitt's [Royal Blue and Gold](https://www.brand.pitt.edu/brand-elements/color-palettes) as the main color palette, and using available Google Fonts that are similar in appearance to [Pitt-specific fonts](https://www.brand.pitt.edu/brand-elements/typography). This also partly explained why some of our fonts were messed up when I tried to export our Google Slides design into PDF format.
 
-Finally, our full-length detailed report that showed our thinking throughout the research process, from exploratory data analysis to justifications for model choice, is accessible via [this link](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/report.html).
+Finally, our full-length detailed report that showed our thinking throughout the research process, from exploratory data analysis to justifications for model choice, is accessible via [this link](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/ncaa_transfers/report.html). The code to reproduce our visualizations and findings is also publicly available as a GitHub repository [here](https://github.com/thaianle/ncaa-capstone-cmsacamp-2026).
 
 If you want to see awesome research projects in statistics and data science that our cohort made during CMSACamp 2026 (including us!), they are also publicly available [here](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/).
-
-_In designing this page, I used the `embedpdf` extension in Quarto, created by Jeffrey Girard._
